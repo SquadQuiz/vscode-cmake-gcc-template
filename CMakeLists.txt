@@ -29,7 +29,7 @@ set(SOURCES_SRCS
 #
 set(INCLUDE_PATH
     # Put here your include dirs, one in each line, relative to CMakeLists.txt file location
-    ${PROJ_PATH}/inc/
+    ${PROJ_PATH}/include/
 )
 
 # Executable files
